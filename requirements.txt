@@ -1,0 +1,7 @@
+numpy==1.15.1
+pandas==0.23.0
+requests==2.19.0
+markdown2==2.3.6
+newspaper==0.2.6
+nltk==3.3
+pdfcrowd==4.4.1
