@@ -8,5 +8,8 @@
 - Summarize and collate in a pdf format. 
 - Send the Summary via mail to anyone.
 
+## Dependencies
+- requirements.txt
+
 
 
