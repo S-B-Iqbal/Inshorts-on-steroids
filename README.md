@@ -12,11 +12,14 @@ Just enter the topic and get relevant news in a summarized format as a pdf attac
 
 ## Dependencies
 - requirements.txt
+  - To install:
+  
+  ```python
+  pip install -r requirements.txt
+  ```
+  
 
-```python
-pip install -r requirements.txt
 
-```
 
 
 
