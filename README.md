@@ -1,4 +1,4 @@
-# Inshorts-on-steroids(In Progress)
+# Inshorts-on-steroids
 
 Just enter the topic and get relevant news in a summarized format as a pdf attachment in your Email. You can schedule run the script as a cronjob to get the updates on a hourly, daily, weekly basis.
 
@@ -8,7 +8,7 @@ Just enter the topic and get relevant news in a summarized format as a pdf attac
 
 - Fetch relevant News of your favourite football club.
 - Summarize and collate in a pdf format. 
-- Send the Summary via mail to anyone.
+- Send the Summary via mail or Whatsappto anyone.
 
 ## Dependencies
 - requirements.txt
