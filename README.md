@@ -19,11 +19,11 @@ Just enter the topic and get relevant news in a summarized format as a pdf attac
   ```
     ```python
     import nltk
-    nltk.dowlnload('stopwords')
+    nltk.download('stopwords')
   ```
     ```python
     import nltk
-    nltk.dowlnload('punkt')
+    nltk.download('punkt')
   ```
 
 
