@@ -17,7 +17,14 @@ Just enter the topic and get relevant news in a summarized format as a pdf attac
   ```python
   pip install -r requirements.txt
   ```
-  
+    ```python
+    import nltk
+    nltk.dowlnload('stopwords')
+  ```
+    ```python
+    import nltk
+    nltk.dowlnload('punkt')
+  ```
 
 
 
