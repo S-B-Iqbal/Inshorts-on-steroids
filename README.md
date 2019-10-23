@@ -8,7 +8,7 @@ Just enter the topic and get relevant news in a summarized format as a pdf attac
 
 - Fetch relevant News of your favourite football club.
 - Summarize and collate in a pdf format. 
-- Send the Summary via mail or Whatsapp to anyone.
+- Share the Summary via mail or Whatsapp to anyone.
 
 ## Dependencies
 - requirements.txt
