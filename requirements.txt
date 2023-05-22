@@ -1,6 +1,6 @@
 numpy==1.22.0
 pandas==0.23.0
-requests==2.20.0
+requests==2.31.0
 markdown2==2.4.0
 newspaper==0.2.6
 nltk==3.6.6
