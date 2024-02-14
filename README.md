@@ -1,6 +1,6 @@
 # Inshorts-on-steroids
 
-Just enter the topic and get relevant news in a summarized format as a pdf attachment in your Email. You can schedule run the script as a cronjob to get the updates on a hourly, daily, weekly basis.
+Old skool summarizer
 
 ## Overview
 
